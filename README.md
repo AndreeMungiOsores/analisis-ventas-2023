@@ -1,2 +1,2 @@
 # Portafolio de proyectos
-En este repositorio se puede encontrar todos mis trabajos con los cuales apliqué mis conocimientos en python y analisis de datos. 
+El repositorio contiene mis proyectos desarrollados en Python, abarcando desde análisis de datos hasta desarrollo de interfaces gráficas. Incluye un análisis detallado de datos de marketing, ventas minoristas, salud pública con gráficos de mapa de calor, diagrama de dispersión, gráfico de barras apiladas, gráfico de líneas múltiples, diagrama de violín, etc. Además proyectos como una interfaz interactiva para la gestión de tareas y otra para la generación personalizada contraseñas complejas. Cada proyecto demuestra habilidades únicas en Python y su aplicación en diferentes áreas de la programación y la tecnología.
